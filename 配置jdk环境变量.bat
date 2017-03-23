@@ -8,6 +8,6 @@ setx CLASSPATH %CLASSPATH%";.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;"
 
 ::set Path
 setx Path %Path%";JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;"
-echo "���óɹ�"
+echo "设置成功"
 pause
 exit
